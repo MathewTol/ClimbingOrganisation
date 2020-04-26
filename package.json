@@ -1,0 +1,24 @@
+{
+  "name": "climbingcompany",
+  "version": "1.0.0",
+  "description": "website of climbing company",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathewTol/ClimbingOrganisation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MathewTol/ClimbingOrganisation/issues"
+  },
+  "homepage": "https://github.com/MathewTol/ClimbingOrganisation#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
